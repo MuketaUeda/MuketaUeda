@@ -25,7 +25,7 @@
 E-commerce **Full Stack MERN** para produtos pet.  
 `MongoDB • Express • React • Node.js`
   
-<img src="https://img.shields.io/badge/Fullstack-blue?style=for-the-badge&logo=react" />
+<a href="https://github.com/MuketaUeda/projetoWebDev"><img src="https://img.shields.io/badge/Fullstack-blue?style=for-the-badge&logo=react" /></a>
   
 </td>
 
@@ -85,8 +85,5 @@ Criptomoeda em Python, com **Kafka + Blockchain**.
 <a href="https://gabriel-rosati.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=react" /></a>
 
 ---
-
-<!-- Contador de visitas (CountAPI + Shields) -->
-![Visitas](https://img.shields.io/endpoint?url=https://api.countapi.xyz/hit/gabrielrosati/profile_visits)
 
 </div>
