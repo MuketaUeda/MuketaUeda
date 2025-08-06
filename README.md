@@ -1,7 +1,7 @@
 <!-- PERFIL GITHUB - MUKETAUEDA -->
 <div align="center">
 
-# 🌌 Bem-vindo ao Universo de Gabriel Rosati 🚀
+# 🌌 Bem-vindo ao GitHub de Gabriel Rosati 🚀
 
 💻 **Engenheiro de Software** | 🎨 **UI/UX Lover** | 🤖 **Entusiasta de IA**  
 🎓 Estudante de Ciência da Computação na **USP**
