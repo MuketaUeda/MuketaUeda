@@ -74,7 +74,7 @@ Criptomoeda em Python, com **Kafka + Blockchain**.
 
 ---
 
-## 🌌 Animação de Contribuições
+## 🌌 Cobra das Contribuições
 <!-- Contribution snake (gerado automaticamente pelo workflow) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuketaUeda/MuketaUeda/output/github-contribution-grid-snake-dark.svg" />
