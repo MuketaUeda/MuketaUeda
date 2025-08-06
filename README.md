@@ -35,7 +35,7 @@ E-commerce **Full Stack MERN** para produtos pet.
 Portfólio moderno com **React + Tailwind** hospedado na Vercel.  
 `React • TailwindCSS • Vercel`
 
-<img src="https://img.shields.io/badge/Frontend-purple?style=for-the-badge&logo=tailwindcss" />
+<a href="https://github.com/MuketaUeda/AboutME"><img src="https://img.shields.io/badge/Frontend-purple?style=for-the-badge&logo=tailwindcss" /></a>
 
 </td>
 </tr>
@@ -47,7 +47,7 @@ Portfólio moderno com **React + Tailwind** hospedado na Vercel.
 Sistema multiagente com IA em **Java + JADE**.  
 `Java • JADE`
 
-<img src="https://img.shields.io/badge/IA-green?style=for-the-badge&logo=java" />
+<a href="https://github.com/MuketaUeda/DBA-2"><img src="https://img.shields.io/badge/IA-green?style=for-the-badge&logo=java" /><a/>
 
 </td>
 
@@ -57,7 +57,7 @@ Sistema multiagente com IA em **Java + JADE**.
 Criptomoeda em Python, com **Kafka + Blockchain**.  
 `Python • Kafka • Blockchain`
 
-<img src="https://img.shields.io/badge/Blockchain-black?style=for-the-badge&logo=python" />
+<a href="https://github.com/MuketaUeda/NaboCoin"><img src="https://img.shields.io/badge/Blockchain-black?style=for-the-badge&logo=python" /></a>
 
 </td>
 </tr>
