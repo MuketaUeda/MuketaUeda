@@ -1,38 +1,43 @@
-name: Generate contribution snake
+name: Generate Snake
 
 on:
-  workflow_dispatch:          # rodar manualmente em Actions -> Run workflow
   schedule:
-    - cron: '0 0 * * *'       # diário às 00:00 UTC (mude se quiser)
+    # every 12 hours
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
   push:
     branches:
-      - main                  # altere se seu branch principal for 'master'
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-
-      - name: Generate snake SVG (svg-only)
-        uses: Platane/snk/svg-only@v3
+      - name: Clone repo
+        uses: actions/checkout@v3
+    
+      - name: Generate the snake files in './dist/'
+        uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            output/github-contribution-grid-snake.svg
-            color_snake: "#00FF00"
-            color_dots: "#0e4429,#006d32,#26a641,#39d353,#9be9a8"
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake="#39FF14"&color_dots="#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Show build status
+        run: git status
 
-      - name: Commit & push generated SVG (if changed)
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          mkdir -p output
-          git add output/github-contribution-grid-snake.svg
-          git commit -m "chore: update contribution snake" || echo "No changes to commit"
-          git push || echo "Push failed; check permissions"
+      - name: Push new files to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Update snake animations
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
