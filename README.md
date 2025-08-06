@@ -1,7 +1,7 @@
 <!-- PERFIL GITHUB - MUKETAUEDA -->
 <div align="center">
 
-# 🌌 Bem-vindo ao Universo de Gabriel Ueda 🚀
+# 🌌 Bem-vindo ao Universo de Gabriel Rosati 🚀
 
 💻 **Engenheiro de Software** | 🎨 **UI/UX Lover** | 🤖 **Entusiasta de IA**  
 🎓 Estudante de Ciência da Computação na **USP**
@@ -75,17 +75,18 @@ Criptomoeda em Python, com **Kafka + Blockchain**.
 ---
 
 ## 🌌 Animação de Contribuições
-![Snake animation](https://github.com/MuketaUeda/MuketaUeda/blob/output/github-contribution-grid-snake.svg)
+<!-- Contribution snake (gerado automaticamente pelo workflow) -->
+![Contribution snake](https://github.com/MuketaUeda/MuketaUeda/blob/main/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Onde me encontrar
-<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://seuportifolio.com"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=react" /></a>
+<a href="https://br.linkedin.com/in/gabriel-tb-rosati"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://gabriel-rosati.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=react" /></a>
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MuketaUeda.MuketaUeda)
+<!-- Contador de visitas (CountAPI + Shields) -->
+![Visitas](https://img.shields.io/endpoint?url=https://api.countapi.xyz/hit/gabrielrosati/profile_visits)
 
 </div>
