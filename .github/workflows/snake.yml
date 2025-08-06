@@ -1,0 +1,38 @@
+name: Generate contribution snake
+
+on:
+  workflow_dispatch:          # rodar manualmente em Actions -> Run workflow
+  schedule:
+    - cron: '0 0 * * *'       # diário às 00:00 UTC (mude se quiser)
+  push:
+    branches:
+      - main                  # altere se seu branch principal for 'master'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate snake SVG (svg-only)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            output/github-contribution-grid-snake.svg
+          palette: github-dark
+          color_snake: "#58A6FF"
+          color_dots: "#c9d1d9,#98c1ff,#6ea8ff,#4c8bf5,#2b6fd6"
+
+      - name: Commit & push generated SVG (if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p output
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "chore: update contribution snake" || echo "No changes to commit"
+          git push || echo "Push failed; check permissions"
