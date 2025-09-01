@@ -16,52 +16,54 @@
 
 ## 🚀 Principais Projetos
 
-<table>
+## 🚀 Principais Projetos
+
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td align="center" width="270">
-  
-<h3>🤖 AddonIA</h3>
-Extensão para Chrome que resume, traduz e analisa textos usando a API do Gemini.
-<br>
-<code>SpringBoot • React • GeminiAPI</code>
-  
-<a href="SEU_LINK_PARA_O_ADDONIA"><img src="https://img.shields.io/badge/IA-Gemini-4285F4?style=for-the-badge&logo=google-gemini" /></a>
-  
+  <h3>🤖 AddonIA</h3>
+  <p>Extensão para Chrome que resume, traduz e analisa textos usando a API do Gemini.</p>
+  <code>SpringBoot • React • GeminiAPI</code>
+  <div style="margin-top: 10px;">
+    <a href="SEU_LINK_PARA_O_ADDONIA">
+      <img src="https://img.shields.io/badge/IA-Gemini-4285F4?style=for-the-badge&logo=google-gemini" />
+    </a>
+  </div>
 </td>
 
 <td align="center" width="270">
-
-<h3>💼 AboutMe</h3>
-Portfólio moderno com **React + Tailwind** hospedado na Vercel.
-<br>
-<code>React • TailwindCSS • Vercel</code>
-
-<a href="https://github.com/MuketaUeda/AboutME"><img src="https://img.shields.io/badge/Frontend-purple?style=for-the-badge&logo=tailwindcss" /></a>
-
+  <h3>💼 AboutMe</h3>
+  <p>Portfólio moderno com React + Tailwind hospedado na Vercel com projetos e habilidades.</p>
+  <code>React • TailwindCSS • Vercel</code>
+  <div style="margin-top: 10px;">
+    <a href="https://github.com/MuketaUeda/AboutME">
+      <img src="https://img.shields.io/badge/Frontend-purple?style=for-the-badge&logo=tailwindcss" />
+    </a>
+  </div>
 </td>
 </tr>
 
 <tr>
-<td align="center">
-
-<h3>🏍️ MotoRent.net</h3>
-Sistema de aluguel de motos com arquitetura de **microsserviços**.
-<br>
-<code>.NET • C# • Docker • RabbitMQ</code>
-
-<a href="https://github.com/MuketaUeda/MotoRent.net"><img src="https://img.shields.io/badge/Microsserviços-DD8500?style=for-the-badge&logo=docker" /></a>
-
+<td align="center" width="270">
+  <h3>🏍️ MotoRent.net</h3>
+  <p>Sistema de aluguel de motos com arquitetura de microsserviços.</p>
+  <code>.NET • C# • Docker • RabbitMQ</code>
+  <div style="margin-top: 10px;">
+    <a href="https://github.com/MuketaUeda/MotoRent.net">
+      <img src="https://img.shields.io/badge/Microsserviços-DD8500?style=for-the-badge&logo=docker" />
+    </a>
+  </div>
 </td>
 
-<td align="center">
-
-<h3>💰 Nabocoin</h3>
-Criptomoeda em Python, com **Kafka + Blockchain**.
-<br>
-<code>Python • Kafka • Blockchain</code>
-
-<a href="https://github.com/MuketaUeda/NaboCoin"><img src="https://img.shields.io/badge/Blockchain-black?style=for-the-badge&logo=python" /></a>
-
+<td align="center" width="270">
+  <h3>💰 Nabocoin</h3>
+  <p>Criptomoeda em Python, com Kafka + Blockchain.</p>
+  <code>Python • Kafka • Blockchain</code>
+  <div style="margin-top: 10px;">
+    <a href="https://github.com/MuketaUeda/NaboCoin">
+      <img src="https://img.shields.io/badge/Blockchain-black?style=for-the-badge&logo=python" />
+    </a>
+  </div>
 </td>
 </tr>
 </table>
