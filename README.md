@@ -50,7 +50,7 @@
   <code>.NET • C# • Docker • RabbitMQ</code>
   <div style="margin-top: 10px;">
     <a href="https://github.com/MuketaUeda/MotoRent.net">
-      <img src="https://img.shields.io/badge/Microsserviços-DD8500?style=for-the-badge&logo=docker" />
+      <img src="https://img.shields.io/badge/Backend-DD8500?style=for-the-badge&logo=docker" />
     </a>
   </div>
 </td>
