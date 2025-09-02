@@ -49,7 +49,7 @@
   <p>Sistema de aluguel de motos com Mensageria e CI/CD.</p>
   <code>.NET • C# • Docker • RabbitMQ</code>
   <div style="margin-top: 10px;">
-    <a href="https://github.com/MuketaUeda/MotoRent.net">
+    <a href="https://github.com/MuketaUeda/MotorcycleRent.NET">
       <img src="https://img.shields.io/badge/Backend-DD8500?style=for-the-badge&logo=docker" />
     </a>
   </div>
