@@ -46,7 +46,7 @@
 <tr>
 <td align="center" width="270">
   <h3>🏍️ MotoRent.net</h3>
-  <p>Sistema de aluguel de motos com arquitetura de microsserviços.</p>
+  <p>Sistema de aluguel de motos com Mensageria e CI/CD.</p>
   <code>.NET • C# • Docker • RabbitMQ</code>
   <div style="margin-top: 10px;">
     <a href="https://github.com/MuketaUeda/MotoRent.net">
