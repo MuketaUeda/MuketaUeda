@@ -12,18 +12,18 @@
 
 ## 01 — Whoami
 
-AI Engineer focado em agentes autônomos, arquiteturas RAG e automação de processos. Cofounder e AI Engineer na **Urutaus Tech**, construindo agentes de IA para clientes e liderando consultoria de adoção de IA para uma gestora de Private Equity. Passagens por **4flow**, **Accenture** e **The Mome**. Estudante de Ciência da Computação na **USP**, com intercâmbio em Engenharia de Computação na **Universidade de Granada**. Certificado *OCI Generative AI Professional* e *OCI AI Foundations Associate*.
+AI Engineer focused on autonomous agents, RAG architectures, and business process automation. Cofounder and AI Engineer at **Urutaus Tech**, building customer-facing AI agents and leading AI-adoption consulting for a Private Equity firm. Previously at **4flow**, **Accenture**, and **The Mome**. Computer Science student at **USP**, with an exchange semester in Computer Engineering at the **University of Granada**. Certified *OCI Generative AI Professional* and *OCI AI Foundations Associate*.
 
 ## 02 — Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Ursão — The Big Bear**](https://github.com/MuketaUeda/TheBigBear) | RAG chatbot com Next.js + LangChain | Next.js · TypeScript · React |
-| [**MapeIA**](https://github.com/MuketaUeda/MapeIA) | Mapeia projetos SAS e gera docs com GPT-4o | Python · OpenAI GPT-4o |
-| [**Task Exception Prediction**](https://github.com/MuketaUeda/TaskException) | Predição de exceções logísticas com XGBoost | Python · XGBoost · Scikit-learn |
-| [**Playing Card Classifier**](https://github.com/MuketaUeda/IAModelPyTorch) | Classificador de imagens com PyTorch | PyTorch · Jupyter |
-| [**IA-Addon**](https://github.com/MuketaUeda/IA-Addon) | Extensão Chrome que resume texto com IA | React · Spring Boot · Tailwind |
-| [**AboutME**](https://github.com/MuketaUeda/AboutME) | Portfólio pessoal em React + Vercel | React · Tailwind CSS · Vercel |
+| [**Ursão — The Big Bear**](https://github.com/MuketaUeda/TheBigBear) | RAG chatbot built with Next.js + LangChain | Next.js · TypeScript · React |
+| [**MapeIA**](https://github.com/MuketaUeda/MapeIA) | Maps SAS projects and generates docs with GPT-4o | Python · OpenAI GPT-4o |
+| [**Task Exception Prediction**](https://github.com/MuketaUeda/TaskException) | Predicts logistics exceptions with XGBoost | Python · XGBoost · Scikit-learn |
+| [**Playing Card Classifier**](https://github.com/MuketaUeda/IAModelPyTorch) | Image classifier built with PyTorch | PyTorch · Jupyter |
+| [**IA-Addon**](https://github.com/MuketaUeda/IA-Addon) | Chrome extension that summarizes text with AI | React · Spring Boot · Tailwind |
+| [**AboutME**](https://github.com/MuketaUeda/AboutME) | Personal portfolio built with React + Vercel | React · Tailwind CSS · Vercel |
 
 ## 03 — Stack
 
