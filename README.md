@@ -50,8 +50,8 @@ Computer Science student at **USP**, with an exchange semester in Computer Engin
 ## Stats
 
 <div align="center">
-<img height="165" src="https://raw.githubusercontent.com/MuketaUeda/MuketaUeda/output/profile-summary-card-output/Tokyonight/3-stats.svg" />
-<img height="165" src="https://raw.githubusercontent.com/MuketaUeda/MuketaUeda/output/profile-summary-card-output/Tokyonight/1-repos-per-language.svg" />
+<img height="165" src="https://raw.githubusercontent.com/MuketaUeda/MuketaUeda/output/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img height="165" src="https://raw.githubusercontent.com/MuketaUeda/MuketaUeda/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 </div>
 
 <div align="center">
