@@ -39,6 +39,9 @@ AI Engineer focado em agentes autônomos, arquiteturas RAG e automação de proc
 
 <div align="center">
 
+<img height="165" src="https://raw.githubusercontent.com/MuketaUeda/MuketaUeda/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img height="165" src="https://raw.githubusercontent.com/MuketaUeda/MuketaUeda/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuketaUeda/MuketaUeda/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuketaUeda/MuketaUeda/output/github-contribution-grid-snake.svg" />
