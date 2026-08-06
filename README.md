@@ -1,28 +1,35 @@
 <div align="center">
 
-# Gabriel Rosati
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="Gabriel Rosati"/></picture>
 
-**AI Engineer** · Cofounder at Urutaus Tech · Computer Science — USP
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-tb-rosati)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://gabriel-rosati.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:gt.rosati@gmail.com)
+<a href="https://br.linkedin.com/in/gabriel-tb-rosati"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
+<a href="https://gabriel-rosati.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000000" alt="Portfolio"/></picture></a>
+<a href="mailto:gt.rosati@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logoColor=000000" alt="Email"/></picture></a>
 
 </div>
 
 <br>
 
-## About
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01-whoami.svg"/><img src="assets/s01-whoami.svg" alt="01 — whoami"/></picture>
 
-AI Engineer focused on autonomous agents, RAG architectures, and business process automation. Currently cofounder and AI Engineer at **Urutaus Tech**, building customer-facing AI agents and leading AI-adoption consulting for a Private Equity firm. Previously at **4flow**, **Accenture**, and **The Mome**, working across data engineering, AI agents, and full-stack development.
-
-Computer Science student at **USP**, with an exchange semester in Computer Engineering at the **University of Granada (Spain)**. Certified *OCI Generative AI Professional* and *OCI AI Foundations Associate*.
+AI Engineer focado em agentes autônomos, arquiteturas RAG e automação de processos. Cofounder e AI Engineer na **Urutaus Tech**, construindo agentes de IA para clientes e liderando consultoria de adoção de IA para uma gestora de Private Equity. Passagens por **4flow**, **Accenture** e **The Mome**. Estudante de Ciência da Computação na **USP**, com intercâmbio em Engenharia de Computação na **Universidade de Granada**. Certificado *OCI Generative AI Professional* e *OCI AI Foundations Associate*.
 
 <br>
 
-## Stack
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02-projects.svg"/><img src="assets/s02-projects.svg" alt="02 — projects"/></picture>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,typescript,javascript,react,nextjs,nodejs,fastapi,tailwind,docker,kubernetes,aws,gcp,azure,postgresql,mongodb,git,linux,figma,postman" alt="Tech stack" />
+| Project | Description | Stack |
+|---|---|---|
+| [**Ursão — The Big Bear**](https://github.com/MuketaUeda/TheBigBear) | RAG chatbot com Next.js + LangChain | Next.js · TypeScript · React |
+| [**MapeIA**](https://github.com/MuketaUeda/MapeIA) | Mapeia projetos SAS e gera docs com GPT-4o | Python · OpenAI GPT-4o |
+| [**Task Exception Prediction**](https://github.com/MuketaUeda/TaskException) | Predição de exceções logísticas com XGBoost | Python · XGBoost · Scikit-learn |
+| [**Playing Card Classifier**](https://github.com/MuketaUeda/IAModelPyTorch) | Classificador de imagens com PyTorch | PyTorch · Jupyter |
+| [**IA-Addon**](https://github.com/MuketaUeda/IA-Addon) | Extensão Chrome que resume texto com IA | React · Spring Boot · Tailwind |
+| [**AboutME**](https://github.com/MuketaUeda/AboutME) | Portfólio pessoal em React + Vercel | React · Tailwind CSS · Vercel |
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03-stack.svg"/><img src="assets/s03-stack.svg" alt="03 — stack"/></picture>
 
 | Area | Technologies |
 |---|---|
@@ -34,20 +41,7 @@ Computer Science student at **USP**, with an exchange semester in Computer Engin
 
 <br>
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Ursão — The Big Bear**](https://github.com/MuketaUeda/TheBigBear) | Conversational AI assistant powered by RAG (Retrieval-Augmented Generation), retrieving relevant context before generating accurate, domain-specific answers. | Next.js · TypeScript · React |
-| [**MapeIA**](https://github.com/MuketaUeda/MapeIA) | Tool that automates the mapping of SAS Enterprise Guide projects, extracting SQL code and generating AI-driven documentation. | Python · OpenAI GPT-4o |
-| [**Task Exception Prediction**](https://github.com/MuketaUeda/TaskException) | Machine learning pipeline to predict exceptions in transportation operations, using XGBoost classification with a focus on high business precision. | Python · XGBoost · Scikit-learn |
-| [**Playing Card Classifier**](https://github.com/MuketaUeda/IAModelPyTorch) | Deep learning image classifier for playing cards, trained and documented in a notebook published on Kaggle. | PyTorch · Jupyter |
-| [**IA-Addon**](https://github.com/MuketaUeda/IA-Addon) | Chrome extension acting as a research assistant, summarizing and analyzing text with AI. | React · Spring Boot · Tailwind |
-| [**AboutME**](https://github.com/MuketaUeda/AboutME) | Personal portfolio showcasing projects, experience, and skills, deployed on Vercel. | React · Tailwind CSS · Vercel |
-
-<br>
-
-## Stats
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04-stats.svg"/><img src="assets/s04-stats.svg" alt="04 — stats"/></picture>
 
 <div align="center">
 <img height="165" src="https://raw.githubusercontent.com/MuketaUeda/MuketaUeda/output/profile-summary-card-output/tokyonight/3-stats.svg" />
@@ -66,7 +60,10 @@ Computer Science student at **USP**, with an exchange semester in Computer Engin
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-tb-rosati)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://gabriel-rosati.vercel.app/)
+<a href="https://br.linkedin.com/in/gabriel-tb-rosati"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
+<a href="https://gabriel-rosati.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000000" alt="Portfolio"/></picture></a>
+<a href="mailto:gt.rosati@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logoColor=000000" alt="Email"/></picture></a>
+
+`$ status: open to interesting problems`
 
 </div>
